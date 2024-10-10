@@ -1,0 +1,7 @@
+Flask
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+joblib
+openpyxl  # For reading Excel files
